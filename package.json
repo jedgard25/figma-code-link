@@ -1,0 +1,12 @@
+{
+  "name": "figma-code-link",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run -ws build",
+    "yalc:publish:nextjs": "npm run -w packages/adapter-nextjs yalc:publish",
+    "yalc:push:nextjs": "npm run -w packages/adapter-nextjs yalc:push"
+  }
+}

@@ -1,16 +1,21 @@
 export type TaskStatus = "to-build" | "to-fix" | "review" | "completed";
 
 export interface TaskEntry {
-  entryId: string;
-  figmaNodeId: string;
-  figmaNodeName: string;
+  figmaNodeId?: string;
+  figmaNodeName?: string;
+  dataCid?: string;
+  type?: "build" | "review";
+  domThumbnailPath?: string;
   comment?: string;
   status: TaskStatus;
-  timestamp: string;
+  /** Compact layer tree snapshot. Populated when "Generate Layer Tree" is enabled in settings. */
+  layerTree?: string;
+  /** Component dependencies detected in the layer tree for this entry. */
+  componentsUsed?: string[];
 }
 
 export interface TaskFile {
-  version: number;
+  version: 2;
   entries: TaskEntry[];
 }
 
@@ -22,8 +27,20 @@ export interface StartFigmaLinkServerOptions {
 export interface CreateTaskInput {
   figmaNodeId: string;
   figmaNodeName: string;
+  type?: "build" | "review";
   comment?: string;
   status?: TaskStatus;
+  layerTree?: string;
+  componentsUsed?: string[];
+}
+
+export interface CreateReviewInput {
+  dataCid: string;
+  comment?: string;
+  status?: TaskStatus;
+  domThumbnailPath?: string;
+  layerTree?: string;
+  componentsUsed?: string[];
 }
 
 export interface UpdateTaskInput {
@@ -31,4 +48,7 @@ export interface UpdateTaskInput {
   figmaNodeName?: string;
   comment?: string;
   status?: TaskStatus;
+  domThumbnailPath?: string;
+  layerTree?: string;
+  componentsUsed?: string[];
 }

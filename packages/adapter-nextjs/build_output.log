@@ -1,0 +1,1327 @@
+
+> figma-code-link-nextjs@0.0.1 build
+> tsc -p tsconfig.json
+
+src/components/DomReviewOverlay.tsx(42,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(47,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(47,15): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(48,28): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(48,33): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(48,48): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(48,48): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(48,63): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(50,3): error TS1131: Property or signature expected.
+src/components/DomReviewOverlay.tsx(50,23): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(53,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(55,25): error TS1005: '{' expected.
+src/components/DomReviewOverlay.tsx(56,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(56,17): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(56,35): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(57,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(57,5): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(57,25): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(59,22): error TS1005: '=' expected.
+src/components/DomReviewOverlay.tsx(59,29): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(59,31): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(59,53): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(59,67): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(59,69): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(59,98): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(61,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(61,7): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(61,35): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(62,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(62,7): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(62,32): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(63,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(63,8): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(63,42): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(65,1): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(65,2): error TS1003: Identifier expected.
+src/components/DomReviewOverlay.tsx(65,3): error TS1003: Identifier expected.
+src/components/DomReviewOverlay.tsx(66,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(66,10): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(66,21): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(66,31): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(67,3): error TS1435: Unknown keyword or identifier. Did you mean 'return'?
+src/components/DomReviewOverlay.tsx(67,44): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(71,23): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(71,36): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(72,14): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(72,20): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(75,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(78,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(78,28): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(80,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(80,9): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(81,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(82,19): error TS1005: 'from' expected.
+src/components/DomReviewOverlay.tsx(82,20): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(84,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(85,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(85,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(85,15): error TS1359: Identifier expected. 'import' is a reserved word that cannot be used here.
+src/components/DomReviewOverlay.tsx(85,50): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(85,55): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(85,70): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(85,75): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(85,90): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(85,95): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(85,148): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(86,3): error TS1138: Parameter declaration expected.
+src/components/DomReviewOverlay.tsx(89,1): error TS1435: Unknown keyword or identifier. Did you mean 'function'?
+src/components/DomReviewOverlay.tsx(89,9): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(89,29): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(90,3): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(92,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(94,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(95,14): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(95,33): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(96,15): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(96,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(96,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(96,30): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(98,22): error TS1005: '=' expected.
+src/components/DomReviewOverlay.tsx(100,35): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(101,32): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(102,54): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(103,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(103,36): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(104,1): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(104,2): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(106,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(106,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(110,6): error TS1435: Unknown keyword or identifier. Did you mean 'return'?
+src/components/DomReviewOverlay.tsx(110,29): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(110,40): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(110,46): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(113,1): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(113,28): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(116,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(116,23): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(118,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(118,11): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(120,15): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(121,2): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(121,5): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(121,7): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(121,27): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(121,31): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(121,48): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(122,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(123,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(123,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(123,15): error TS1359: Identifier expected. 'import' is a reserved word that cannot be used here.
+src/components/DomReviewOverlay.tsx(123,35): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(123,50): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(123,56): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(123,61): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(125,1): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(127,1): error TS1435: Unknown keyword or identifier. Did you mean 'function'?
+src/components/DomReviewOverlay.tsx(127,9): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(127,29): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(128,3): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(130,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(132,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(133,14): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(133,33): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(134,15): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(134,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(134,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(135,8): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(137,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(139,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(140,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(140,2): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(142,21): error TS1005: ']' expected.
+src/components/DomReviewOverlay.tsx(142,25): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(142,32): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(142,47): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(142,49): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(142,52): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(142,62): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(142,68): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(142,71): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(143,18): error TS1005: '=' expected.
+src/components/DomReviewOverlay.tsx(143,34): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(148,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(148,38): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(149,5): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(149,61): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(150,1): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(150,2): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(151,26): error TS1144: '{' or ';' expected.
+src/components/DomReviewOverlay.tsx(151,27): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(152,34): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(152,50): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(152,60): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(152,78): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(152,97): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(153,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(153,17): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(154,4): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(155,6): error TS1435: Unknown keyword or identifier. Did you mean 'return'?
+src/components/DomReviewOverlay.tsx(155,18): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(157,1): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(157,20): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(159,29): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(161,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(161,23): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(163,7): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(165,8): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(166,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(166,11): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(167,3): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(168,3): error TS1435: Unknown keyword or identifier. Did you mean 'const'?
+src/components/DomReviewOverlay.tsx(168,11): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(169,16): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(169,18): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(169,20): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(170,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(170,15): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(170,35): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(170,46): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(170,61): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(173,1): error TS1435: Unknown keyword or identifier. Did you mean 'function'?
+src/components/DomReviewOverlay.tsx(173,9): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(173,29): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(174,3): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(176,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(176,13): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(177,8): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(179,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(181,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(184,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(184,25): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(184,47): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(184,49): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(184,52): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(184,62): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(185,13): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(187,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(191,1): error TS1435: Unknown keyword or identifier. Did you mean 'infer'?
+src/components/DomReviewOverlay.tsx(192,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(192,8): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(192,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(192,12): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(192,13): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(195,1): error TS1005: ']' expected.
+src/components/DomReviewOverlay.tsx(197,19): error TS1005: '=' expected.
+src/components/DomReviewOverlay.tsx(197,35): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(202,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(202,37): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(206,17): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(207,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(207,23): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(207,59): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(208,26): error TS1144: '{' or ';' expected.
+src/components/DomReviewOverlay.tsx(208,27): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(209,34): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(209,53): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(209,64): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(209,81): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(209,88): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(210,4): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(211,6): error TS1435: Unknown keyword or identifier. Did you mean 'return'?
+src/components/DomReviewOverlay.tsx(211,18): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(212,21): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(213,6): error TS1435: Unknown keyword or identifier. Did you mean 'return'?
+src/components/DomReviewOverlay.tsx(213,18): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(213,29): error TS1435: Unknown keyword or identifier. Did you mean 'return urnusfunction'?
+src/components/DomReviewOverlay.tsx(214,1): error TS1435: Unknown keyword or identifier. Did you mean 'function'?
+src/components/DomReviewOverlay.tsx(214,9): error TS1435: Unknown keyword or identifier. Did you mean 'function'?
+src/components/DomReviewOverlay.tsx(217,20): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(218,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(219,20): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(222,50): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(222,58): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(222,60): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(222,73): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(222,74): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(222,94): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(224,1): error TS1005: 'from' expected.
+src/components/DomReviewOverlay.tsx(224,9): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(224,29): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(225,3): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(227,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(227,13): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(228,1): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(228,8): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(230,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(230,13): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(231,8): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(234,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(234,12): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(236,1): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(236,3): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(239,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(241,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(241,8): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(241,35): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(243,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(247,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(247,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(248,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(248,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(248,12): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(248,13): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(249,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(253,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(256,2): error TS1005: ']' expected.
+src/components/DomReviewOverlay.tsx(256,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(259,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(259,17): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(263,13): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(266,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(267,21): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(267,35): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(267,36): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(270,7): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(270,12): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(271,6): error TS1435: Unknown keyword or identifier. Did you mean 'return'?
+src/components/DomReviewOverlay.tsx(271,18): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(272,21): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(273,6): error TS1435: Unknown keyword or identifier. Did you mean 'return'?
+src/components/DomReviewOverlay.tsx(273,18): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(273,27): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(273,34): error TS1435: Unknown keyword or identifier. Did you mean 'return urntHfunction'?
+src/components/DomReviewOverlay.tsx(273,54): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(273,65): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(273,93): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(273,95): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(273,106): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(273,119): error TS1435: Unknown keyword or identifier. Did you mean 'function'?
+src/components/DomReviewOverlay.tsx(276,20): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(279,20): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(279,25): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(279,33): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(280,28): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(282,9): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(282,13): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(283,1): error TS1435: Unknown keyword or identifier. Did you mean 'function'?
+src/components/DomReviewOverlay.tsx(283,9): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(283,29): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(284,3): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(286,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(286,13): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(287,1): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(287,8): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(289,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(289,13): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(290,8): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(293,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(295,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(295,13): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(296,1): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(296,8): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(299,11): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(301,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(301,4): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(302,8): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(303,8): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(306,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(306,18): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(307,3): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(310,1): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(313,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(314,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(315,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(315,28): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(321,1): error TS1005: ']' expected.
+src/components/DomReviewOverlay.tsx(323,1): error TS1005: '=' expected.
+src/components/DomReviewOverlay.tsx(324,13): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(326,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(326,13): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(326,37): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(329,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(329,12): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(330,7): error TS1005: 'while' expected.
+src/components/DomReviewOverlay.tsx(330,12): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(331,6): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(331,9): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(331,17): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(331,22): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(331,28): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(331,38): error TS1435: Unknown keyword or identifier. Did you mean 'return'?
+src/components/DomReviewOverlay.tsx(331,50): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(333,4): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(333,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(333,33): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(333,44): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(333,49): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(334,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(335,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(335,10): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(336,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(338,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(338,20): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(338,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(338,33): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(338,41): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(339,28): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(339,32): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(344,3): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(344,33): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(344,37): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(347,9): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(347,13): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(347,24): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(347,34): error TS1435: Unknown keyword or identifier. Did you mean 'function'?
+src/components/DomReviewOverlay.tsx(347,42): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(347,62): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(349,10): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(349,13): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(350,1): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(350,8): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(352,1): error TS1435: Unknown keyword or identifier. Did you mean 'interface'?
+src/components/DomReviewOverlay.tsx(352,8): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(353,12): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(356,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(356,17): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(358,1): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(358,3): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(359,8): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(359,20): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(360,1): error TS1435: Unknown keyword or identifier. Did you mean 'interface'?
+src/components/DomReviewOverlay.tsx(360,19): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(362,1): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(364,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(364,4): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(365,14): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(366,1): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(367,12): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(368,1): error TS1003: Identifier expected.
+src/components/DomReviewOverlay.tsx(371,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(371,6): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(371,14): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(373,7): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(374,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(374,3): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(375,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(375,16): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(375,27): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(376,1): error TS1435: Unknown keyword or identifier. Did you mean 'await'?
+src/components/DomReviewOverlay.tsx(379,1): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(379,4): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(379,8): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(381,19): error TS1005: '=' expected.
+src/components/DomReviewOverlay.tsx(381,23): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(382,13): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(382,16): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(382,41): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(382,51): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(382,58): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(384,3): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(384,12): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(384,21): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(384,30): error TS1005: 'while' expected.
+src/components/DomReviewOverlay.tsx(384,35): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(384,44): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(384,49): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(385,6): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(385,9): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(385,17): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(385,22): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(385,28): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(385,38): error TS1435: Unknown keyword or identifier. Did you mean 'return'?
+src/components/DomReviewOverlay.tsx(385,50): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(387,6): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(387,9): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(387,17): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(388,3): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(388,4): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(388,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(388,33): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(388,44): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(388,49): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(389,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(390,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(391,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(391,20): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(391,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(394,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(394,15): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(394,21): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(396,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(397,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(397,3): error TS1005: '{' expected.
+src/components/DomReviewOverlay.tsx(398,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(398,29): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(398,33): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(400,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(400,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(401,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(401,32): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(402,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(403,3): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(403,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(403,30): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(405,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(405,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(405,35): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(406,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(406,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(406,13): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(407,1): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(407,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(409,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(409,9): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(410,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(413,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(414,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(416,1): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(416,5): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(417,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(418,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(418,13): error TS1127: Invalid character.
+src/components/DomReviewOverlay.tsx(418,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(419,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(420,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(420,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(423,3): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(424,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(424,39): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(426,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(426,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(427,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(427,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(428,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(428,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(428,21): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(429,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(429,12): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(430,1): error TS1003: Identifier expected.
+src/components/DomReviewOverlay.tsx(430,9): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(432,11): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(432,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(432,28): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(432,32): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(435,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(435,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(436,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(436,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(436,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(437,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(437,21): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(438,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(439,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(439,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(440,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(440,15): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(440,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(440,26): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(440,27): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(440,28): error TS1003: Identifier expected.
+src/components/DomReviewOverlay.tsx(440,45): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(440,50): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(440,63): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(440,66): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(441,11): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(441,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(442,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(442,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(442,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(442,21): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(442,30): error TS1005: 'while' expected.
+src/components/DomReviewOverlay.tsx(442,35): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(442,44): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(442,56): error TS1005: ';' expected.
+src/components/DomReviewOverlay.tsx(442,64): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(442,67): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(442,75): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(442,80): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(442,86): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(442,96): error TS1435: Unknown keyword or identifier. Did you mean 'return'?
+src/components/DomReviewOverlay.tsx(442,108): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(442,124): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(443,6): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(443,9): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(443,17): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(443,29): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(444,3): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(444,4): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(444,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(444,32): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(444,37): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(444,57): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(445,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(445,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(446,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(446,20): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(446,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(449,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(449,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(449,18): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(449,22): error TS1005: '{' expected.
+src/components/DomReviewOverlay.tsx(451,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(451,15): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(451,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(453,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(453,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(454,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(455,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(455,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(455,7): error TS1005: '{' expected.
+src/components/DomReviewOverlay.tsx(456,15): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(456,19): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(456,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(457,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(457,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(458,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(458,19): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(458,31): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(458,34): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(458,35): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(458,35): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(459,3): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(459,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(460,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(461,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(461,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(461,21): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(461,28): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(461,29): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(461,48): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(462,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(464,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(464,9): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(465,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(465,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(465,7): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(465,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(467,1): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(468,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(469,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(470,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(470,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(470,8): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(471,5): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(472,3): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(472,21): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(473,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(473,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(476,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(476,10): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(476,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(476,23): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(477,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(477,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(477,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(478,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(478,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(479,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(479,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(479,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(479,20): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(480,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(480,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(480,31): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(481,1): error TS1003: Identifier expected.
+src/components/DomReviewOverlay.tsx(481,9): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(482,3): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(482,11): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(485,7): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(486,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(487,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(487,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(488,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(488,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(488,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(488,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(488,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(489,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(491,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(491,11): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(492,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(492,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(493,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(493,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(493,43): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,21): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(494,30): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,35): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,44): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,49): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,69): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,74): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,82): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,85): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,86): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(494,98): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(494,106): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(495,3): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(495,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(495,32): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(495,37): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(495,57): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(496,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(496,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(497,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(497,14): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(497,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(497,37): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(497,52): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(498,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(498,20): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(498,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(501,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(501,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(501,18): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(501,31): error TS1005: '{' expected.
+src/components/DomReviewOverlay.tsx(501,38): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(503,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(503,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(504,1): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(504,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(504,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(505,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(505,15): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(505,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(505,21): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(506,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(506,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(507,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(507,12): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(507,22): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(507,25): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(507,26): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(508,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(508,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(508,27): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(509,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(509,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(509,26): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(509,37): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(510,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(511,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(511,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(511,31): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(511,35): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(511,43): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(511,50): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(511,51): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(511,55): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(511,62): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(513,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(513,9): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(514,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(514,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(514,7): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(514,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(516,1): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(518,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(518,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(518,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(518,16): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(518,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(519,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(520,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(520,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(520,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(521,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(521,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(521,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(521,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(521,25): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(522,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(523,6): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(523,8): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(523,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(526,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(526,6): error TS1003: Identifier expected.
+src/components/DomReviewOverlay.tsx(527,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(527,28): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(527,31): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(528,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(528,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(528,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(529,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(530,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(530,26): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(531,3): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(531,11): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(534,5): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(534,17): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(535,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(536,11): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(536,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(537,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(537,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(537,19): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(537,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(537,33): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(537,37): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(540,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(540,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(540,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(540,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(540,13): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(540,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(541,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(541,22): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(541,31): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(541,36): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(541,40): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(541,49): error TS1005: 'while' expected.
+src/components/DomReviewOverlay.tsx(541,54): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(541,54): error TS1434: Unexpected keyword or identifier.
+src/components/DomReviewOverlay.tsx(541,132): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(542,7): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(542,8): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(543,14): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(543,17): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(543,18): error TS1128: Declaration or statement expected.
+src/components/DomReviewOverlay.tsx(543,32): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(544,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(544,14): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(544,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(544,37): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(544,52): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(544,55): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(544,78): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(544,92): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(547,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(547,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(547,18): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(547,29): error TS1005: '{' expected.
+src/components/DomReviewOverlay.tsx(549,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(549,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(549,17): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(550,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(552,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(552,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(552,14): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(553,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(553,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(553,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(554,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(554,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(554,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(554,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(555,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(555,10): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(555,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(555,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(555,22): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(555,25): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(556,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(556,10): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(556,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(556,42): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(556,47): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(556,51): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(556,61): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(556,76): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(556,78): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(556,80): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(556,80): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(556,93): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(557,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(557,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(557,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(557,27): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(557,42): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(558,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(558,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(558,9): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(559,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(559,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(559,7): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(559,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(561,1): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(563,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(563,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(563,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(563,16): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(563,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(564,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(564,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(566,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(567,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(568,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(569,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(569,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(569,19): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(570,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(570,8): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(572,6): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(572,8): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(572,21): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(572,24): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(572,26): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(573,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(574,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(575,9): error TS1003: Identifier expected.
+src/components/DomReviewOverlay.tsx(576,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(576,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(577,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(578,46): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(580,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(581,5): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(581,11): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(582,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(583,5): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(584,11): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(584,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(584,36): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(585,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(586,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(586,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(586,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(586,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(586,13): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(586,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(587,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(587,31): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(587,45): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(588,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(589,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(590,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(591,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(591,23): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(591,31): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(591,57): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(591,71): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(591,75): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(591,78): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(591,79): error TS1135: Argument expression expected.
+src/components/DomReviewOverlay.tsx(591,98): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(591,103): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(593,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(593,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(593,18): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(593,29): error TS1005: '{' expected.
+src/components/DomReviewOverlay.tsx(595,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(595,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(595,17): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(596,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(598,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(598,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(598,14): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(599,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(599,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(600,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(600,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(601,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(601,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(601,14): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(601,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(602,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(603,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(603,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(605,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(605,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(607,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(607,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(608,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(608,11): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(609,10): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(609,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(609,30): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(609,32): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(609,52): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(609,56): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(609,63): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(609,67): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(609,74): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(609,89): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(610,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(610,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(610,9): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(611,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(611,7): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(611,7): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(615,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(615,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(615,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(615,16): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(615,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(616,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(616,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(616,22): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(617,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(617,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(617,7): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(617,7): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(621,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(621,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(623,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(623,9): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(623,22): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(623,26): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(626,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(626,13): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(627,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(627,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(627,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(627,25): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(627,29): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(627,41): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(627,42): error TS1135: Argument expression expected.
+src/components/DomReviewOverlay.tsx(628,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(629,11): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(629,13): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(630,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(630,30): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(630,43): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(630,53): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(630,75): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(631,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(632,5): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(632,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(632,11): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(633,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(634,5): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(637,5): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(637,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(637,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(637,22): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(637,29): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(638,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(638,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(638,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(638,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(638,13): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(638,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(638,29): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(638,34): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(638,38): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(638,46): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(638,67): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(639,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(640,34): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(641,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(641,21): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(641,31): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(642,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(642,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(642,18): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(642,29): error TS1005: '{' expected.
+src/components/DomReviewOverlay.tsx(644,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(644,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(644,17): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(645,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(647,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(647,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(647,14): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(648,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(648,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(649,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(649,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(650,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(651,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(652,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(652,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(652,14): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(652,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(653,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(654,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(656,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(656,15): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(657,2): error TS1127: Invalid character.
+src/components/DomReviewOverlay.tsx(657,4): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(657,6): error TS1124: Digit expected.
+src/components/DomReviewOverlay.tsx(657,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(657,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(658,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(658,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(658,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(658,22): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(658,25): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(659,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(659,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(660,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(661,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(661,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(661,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(661,10): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(662,2): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(663,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(663,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(664,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(665,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(665,11): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(665,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(665,29): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(665,30): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(666,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(666,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(666,7): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(666,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(668,1): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(670,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(670,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(670,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(670,16): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(670,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(671,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(671,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(671,22): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(672,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(672,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(672,7): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(672,7): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(672,11): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(672,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(672,17): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(672,17): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(674,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(674,14): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(674,27): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(674,31): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(674,34): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(674,34): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(674,47): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(674,50): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(674,50): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(678,1): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(679,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(679,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(679,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(679,22): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(680,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(680,9): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(682,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(682,13): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(683,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(683,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(683,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(683,26): error TS1005: ')' expected.
+src/components/DomReviewOverlay.tsx(683,31): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(683,36): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(683,41): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(684,11): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(684,13): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(685,15): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(685,17): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(685,56): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(686,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(686,11): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(687,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(688,5): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(691,5): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(691,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(691,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(692,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(692,6): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(692,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(693,11): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(693,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(694,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(694,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(694,21): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(694,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(694,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(694,24): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(694,35): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(694,60): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(695,34): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(695,35): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(695,37): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(695,112): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(696,2): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(696,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(696,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(696,19): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(696,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(696,34): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(698,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(699,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(700,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(700,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(700,17): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(701,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(702,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(704,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(704,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(704,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(705,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(705,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(705,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(706,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(706,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(707,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(707,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(707,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(707,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(708,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(708,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(709,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(711,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(711,22): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(712,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(712,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(713,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(713,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(713,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(714,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(715,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(715,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(715,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(715,10): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(715,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(715,26): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(715,29): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(715,31): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(716,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(717,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(717,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(717,31): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(717,39): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(717,42): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(717,42): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/components/DomReviewOverlay.tsx(724,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(724,15): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(724,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(724,61): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(725,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(725,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(725,14): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(725,22): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(726,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(728,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(729,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(729,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(729,15): error TS1005: '{' expected.
+src/components/DomReviewOverlay.tsx(729,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(729,22): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(730,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(730,9): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(731,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(731,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(731,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(732,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(732,9): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(734,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(735,19): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(735,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(735,29): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(735,43): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(736,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(736,15): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(736,17): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(737,15): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(737,17): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(737,42): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(738,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(738,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(739,5): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(743,5): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(745,2): error TS1161: Unterminated regular expression literal.
+src/components/DomReviewOverlay.tsx(745,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(746,6): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(746,7): error TS1137: Expression or comma expected.
+src/components/DomReviewOverlay.tsx(746,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(747,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(747,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(747,19): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(748,11): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(748,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(748,56): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(748,59): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(748,141): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(749,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(750,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(751,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(752,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(752,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(752,17): error TS1005: '(' expected.
+src/components/DomReviewOverlay.tsx(753,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(754,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(756,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(756,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(756,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(757,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(757,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(757,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(758,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(759,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(760,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(761,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(761,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(761,14): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(761,17): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(762,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(763,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(764,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(765,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(765,12): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(766,2): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(766,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(766,11): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(766,15): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(766,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(767,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(767,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(767,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(768,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(768,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(768,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(769,7): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(770,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(771,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(771,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(771,16): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(772,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(772,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(772,14): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(772,16): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(772,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(772,29): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(772,31): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(773,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(773,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(773,8): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(773,19): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(773,27): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(774,4): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(774,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(774,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(774,30): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(776,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(780,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(780,15): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(780,24): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(781,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(781,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(781,23): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(781,30): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(781,37): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(781,45): error TS1002: Unterminated string literal.
+src/components/DomReviewOverlay.tsx(784,1): error TS1109: Expression expected.
+src/components/DomReviewOverlay.tsx(785,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(785,13): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(785,20): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(785,22): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(787,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(788,1): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(790,2): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(790,5): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(790,10): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(790,18): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(791,3): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(791,6): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(791,12): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(791,15): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(791,18): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(792,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(793,1): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(793,9): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(793,15): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(793,22): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(793,43): error TS1005: '>' expected.
+src/components/DomReviewOverlay.tsx(793,68): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(793,73): error TS1005: ',' expected.
+src/components/DomReviewOverlay.tsx(793,75): error TS1136: Property assignment expected.
+src/components/DomReviewOverlay.tsx(793,81): error TS1005: ':' expected.
+src/components/DomReviewOverlay.tsx(795,1): error TS1005: '}' expected.
+npm error Lifecycle script `build` failed with error:
+npm error code 2
+npm error path /Users/evindrews/Documents/figma-code-link/packages/adapter-nextjs
+npm error workspace figma-code-link-nextjs@0.0.1
+npm error location /Users/evindrews/Documents/figma-code-link/packages/adapter-nextjs
+npm error command failed
+npm error command sh -c tsc -p tsconfig.json

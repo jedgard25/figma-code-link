@@ -6,6 +6,8 @@
   ],
   "scripts": {
     "build": "npm run -ws build",
+    "plugin:build": "npm run -w packages/figma-plugin build",
+    "plugin:package": "npm run -w packages/figma-plugin package",
     "yalc:publish:nextjs": "npm run -w packages/adapter-nextjs yalc:publish",
     "yalc:push:nextjs": "npm run -w packages/adapter-nextjs yalc:push"
   }

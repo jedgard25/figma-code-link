@@ -1,0 +1,12 @@
+{
+  "name": "@figma-code-link/figma-plugin",
+  "private": true,
+  "scripts": {
+    "build": "node ./scripts/build-plugin.mjs",
+    "package": "npm run build && node ./scripts/package-plugin.mjs"
+  },
+  "devDependencies": {
+    "adm-zip": "^0.5.16",
+    "esbuild": "^0.25.1"
+  }
+}

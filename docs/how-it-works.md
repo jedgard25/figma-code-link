@@ -15,8 +15,8 @@ This system has 3 parts:
      - `GET /health`
      - `GET /tasks`
      - `POST /tasks`
-     - `PUT /tasks/:entryId`
-     - `DELETE /tasks/:entryId`
+     - `PUT /tasks/:figmaNodeId`
+     - `DELETE /tasks/:figmaNodeId`
      - `DELETE /tasks`
 
 3. **Figma plugin** (`packages/figma-plugin`)

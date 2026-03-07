@@ -78,12 +78,7 @@ function findCidTarget(
 /** Best-effort html2canvas capture. Returns base64 data URL or null. */
 async function captureElement(el: HTMLElement): Promise<string | null> {
   try {
-    // Use Function() trick so webpack/turbopack won't statically bundle html2canvas.
-    // It will be resolved at runtime from node_modules if installed in the consumer app.
-    const dyn = new Function("m", "return import(m)") as (
-      m: string,
-    ) => Promise<unknown>;
-    const mod = await dyn("html2canvas");
+    const mod = await import("html2canvas");
     let h2c: Html2CanvasFn | null = null;
     if (typeof mod === "function") {
       h2c = mod as Html2CanvasFn;
@@ -469,8 +464,7 @@ export function DomReviewOverlay({
         }
       } else {
         console.info(
-          "[figma-code-link] No screenshot captured. " +
-            "Install html2canvas in your project to enable screenshots: npm i html2canvas",
+          "[figma-code-link] No screenshot captured for the selected element.",
         );
       }
 

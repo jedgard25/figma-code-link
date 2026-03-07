@@ -1,3 +1,10 @@
+export {
+  startFigmaLinkServer,
+  registerRoutes,
+  createTaskStore,
+  TaskStore,
+  AppError,
+} from "./server";
 export type {
   CreateReviewInput,
   CreateTaskInput,
@@ -6,4 +13,4 @@ export type {
   TaskFile,
   TaskStatus,
   UpdateTaskInput,
-} from "figma-code-link-core";
+} from "./types";

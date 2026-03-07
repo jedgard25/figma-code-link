@@ -1,18 +1,4 @@
-export type TaskStatus = "to-build" | "to-fix" | "review" | "completed";
-
-export interface TaskEntry {
-  figmaNodeId?: string;
-  figmaNodeName?: string;
-  dataCid?: string;
-  type?: "build" | "review";
-  domThumbnailPath?: string;
-  comment?: string;
-  status: TaskStatus;
-  /** Compact layer tree snapshot. Populated when "Generate Layer Tree" is enabled in settings. */
-  layerTree?: string;
-  /** Component dependencies detected while generating the layer tree. */
-  componentsUsed?: string[];
-}
+export type { TaskEntry, TaskStatus } from "figma-code-link-core";
 
 export interface SelectionPayload {
   nodeId: string;
